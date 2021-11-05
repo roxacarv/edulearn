@@ -1,0 +1,50 @@
+{
+"TIPO_CATEGORIA_ADM": [
+{
+ "Especial": 0,
+ "Pública Estadual": 1,
+ "Pública Federal": 2,
+ "Pública Municipal": 3
+}
+],
+"REGIAO": [
+{
+ "Centro-Oeste": 0,
+ "Nordeste": 1,
+ "Norte": 2,
+ "Sudeste": 3,
+ "Sul": 4
+}
+],
+"UF": [
+{
+ "Acre": 0,
+ "Alagoas": 1,
+ "Amapá": 2,
+ "Amazonas": 3,
+ "Bahia": 4,
+ "Ceará": 5,
+ "Distrito Federal": 6,
+ "Espírito Santo": 7,
+ "Goiás": 8,
+ "Maranhão": 9,
+ "Mato Grosso": 10,
+ "Mato Grosso do Sul": 11,
+ "Minas Gerais": 12,
+ "Paraná": 13,
+ "Paraíba": 14,
+ "Pará": 15,
+ "Pernambuco": 16,
+ "Piauí": 17,
+ "Rio Grande do Norte": 18,
+ "Rio Grande do Sul": 19,
+ "Rio de Janeiro": 20,
+ "Rondônia": 21,
+ "Roraima": 22,
+ "Santa Catarina": 23,
+ "Sergipe": 24,
+ "São Paulo": 25,
+ "Tocantins": 26
+}
+]
+}
